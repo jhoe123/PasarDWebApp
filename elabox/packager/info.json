@@ -1,0 +1,19 @@
+{
+	"name": "Pasar",
+	"description": "Trinity Pasar",
+	"packageId": "trinity.pasar",
+	"build": 2,
+	"version": "2.0.0",
+	"program": "",
+	"programArgs": null,
+	"activityGroup": {
+		"customLink": "",
+		"customPort": 3004,
+		"activities": null
+	},
+	"permissions": null,
+	"exportService": true,
+	"location": "external",
+	"nodejs": false,
+	"packagerVersion": "0.1.0"
+}

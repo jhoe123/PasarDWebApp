@@ -1,0 +1,5 @@
+{
+    "www": "../../build",
+    "config": "./info.json",
+    "postinstall": "./postinstall.sh"
+}
